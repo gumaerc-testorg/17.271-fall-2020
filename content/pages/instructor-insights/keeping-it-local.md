@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: ab014b1b-9794-5966-142c-0e405f44ff37
 title: Keeping It Local
 uid: 6b62ced3-0ad4-889c-b90c-3da00db74a88
