@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 2
 parent_type: CourseSection
+parent_uid: 6403123a-a1fb-0d24-e35e-b85486aeb4d6
 resourcetype: Document
 title: '17.271 Mass Incarceration in the US: CPS Arrests on School Grounds'
 uid: f5011b43-3039-4fb7-d125-433acf30a6c5
