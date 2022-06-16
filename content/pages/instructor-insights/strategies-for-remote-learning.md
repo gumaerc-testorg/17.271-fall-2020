@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Prof. Ariel White reflects on the experience of teaching
+  17.271 during the Covid-19 pandemic. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

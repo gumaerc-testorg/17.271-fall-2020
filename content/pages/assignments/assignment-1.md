@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information on the first homework assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -34,6 +35,6 @@ Here are the steps:
 
 _Student Example_
 
-["Chicago's Incarceration and Legal Systems" (PDF)]({{< baseurl >}}/resources/mit17_271f20_studentexample1)
+{{% resource_link 7384518a-e15b-e125-1c60-a92fd9041084 "\"Chicago's Incarceration and Legal Systems\" (PDF)" %}}
 
 Note: This example appears courtesy of an MIT student and is anonymous by request.

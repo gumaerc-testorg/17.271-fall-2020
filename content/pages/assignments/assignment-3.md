@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information on the third homework assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,6 +30,6 @@ The details:
 
 _Student Example_
 
-["Kentucky High Schools with SROs and Without: An Examination of Criminal Violation Rates" (PDF)]({{< baseurl >}}/resources/mit17_271f20_studentexample3)
+{{% resource_link bda6e251-8378-f927-9d69-718ec2b8a243 "\"Kentucky High Schools with SROs and Without: An Examination of Criminal Violation Rates\" (PDF)" %}}
 
 Note: This example appears courtesy of an MIT student and is anonymous by request.
