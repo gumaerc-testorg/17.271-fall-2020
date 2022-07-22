@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information on the final presentation.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
 title: Final Presentation
 uid: bcf7f296-c210-7228-0c5b-748a1130cef7

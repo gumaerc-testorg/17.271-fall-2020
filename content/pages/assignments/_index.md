@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes information on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f633127a-fb5f-0c49-2d7b-89bad8ddb77b
 ---
@@ -13,11 +17,11 @@ Each paper will be worth 15% of the class grade.
 
 For more information, click on the links below.
 
-[Assignment 1]({{< baseurl >}}/pages/assignments/assignment-1)
+{{% resource_link 6806c15a-221e-82a5-2521-2f9eb1320082 "Assignment 1" %}}
 
-[Assignment 2]({{< baseurl >}}/pages/assignments/assignment-2)
+{{% resource_link 6403123a-a1fb-0d24-e35e-b85486aeb4d6 "Assignment 2" %}}
 
-[Assignment 3]({{< baseurl >}}/pages/assignments/assignment-3)
+{{% resource_link 2687da18-a8fa-e553-fa30-6e6d509342f6 "Assignment 3" %}}
 
 Final Presentation
 ------------------
@@ -28,4 +32,4 @@ The presentation will be worth 25% of the class grade.
 
 For more information, click on the link below.
 
-[Final Presentation]({{< baseurl >}}/pages/assignments/final-presentation)
+{{% resource_link bcf7f296-c210-7228-0c5b-748a1130cef7 "Final Presentation" %}}

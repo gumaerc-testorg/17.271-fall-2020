@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the course's description, expectations, and grading
+  policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c8c40cc0-4688-d25d-26dc-0cd77eb96d62
 ---
@@ -17,7 +21,7 @@ There are no prerequisites for this course.
 Course Description
 ------------------
 
-This is an undergraduate class about the current state of incarceration in the US. There are no official prerequisites, but a basic understanding of American political institutions (as would be gained from _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013/)_) will be helpful, as will a willingness to engage with complex reading material. The focus will be on social science theories and research about incarceration, with the readings drawing heavily on work from political science, economics, sociology, and other disciplines.
+This is an undergraduate class about the current state of incarceration in the US. There are no official prerequisites, but a basic understanding of American political institutions (as would be gained from _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013)_) will be helpful, as will a willingness to engage with complex reading material. The focus will be on social science theories and research about incarceration, with the readings drawing heavily on work from political science, economics, sociology, and other disciplines.
 
 After taking this class, students will be able to describe some features of the carceral state in the US, including comparisons to other places and other periods in US history. They will be familiar with theories that seek to explain how we ended up here, and the types of evidence that have been marshalled to support those theories. Finally, they will be aware of major reform proposals that are being considered, and will be prepared to critique those proposals based on empirical evidence about what has and has not worked in the past.
 
@@ -74,4 +78,4 @@ Final presentation
 
 {{< tableclose >}}
 
- For detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+ For detail on the activities above, see the {{% resource_link f633127a-fb5f-0c49-2d7b-89bad8ddb77b "Assignments" %}} section.

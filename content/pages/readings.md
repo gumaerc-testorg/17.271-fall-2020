@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course's topics and their accompanying readings,
+  videos, and audio.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings, Videos, and Audio
 uid: d66f2fba-3b0a-d84b-3205-951caa0df27f
 ---
@@ -118,7 +122,7 @@ Downstream effects: crime and recidivism
 
 "[Weighing Imprisonment and Crime: 9 Experts Explore the Relationship Between Prisons and Crime Rates](https://www.pewtrusts.org/en/research-and-analysis/articles/2014/09/weighing-imprisonment-and-crime)." February 10, 2015. The Pew Charitable Trusts.
 
-Roodman, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Impacts of Incarceration on Crime." (PDF - 4MB)](https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf) September 2017. Open Philantrophy Project. 
+Roodman, David. ["The Impacts of Incarceration on Crime." (PDF - 4MB)](https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf) September 2017. Open Philantrophy Project. 
 
 
 {{< tdclose >}}
@@ -186,11 +190,11 @@ Laws
 
 _Video_
 
-_[13th](https://www.youtube.com/watch?v=krfcq5pF8u8)._ Directed by Ava DuVernay. Color, 100 min. 2016. YouTube.
+_[13{{< sup "th" >}}](https://www.youtube.com/watch?v=krfcq5pF8u8)._ Directed by Ava DuVernay. Color, 100 min. 2016. YouTube.
 
 _Readings_
 
-Berger, Dan. "[Mass Incarceration and Its Mystification: A Review of The 13th](https://www.aaihs.org/mass-incarceration-and-its-mystification-a-review-of-the-13th/)." October 22, 2016. Black Perspectives.
+Berger, Dan. "[Mass Incarceration and Its Mystification: A Review of The 13{{< sup "th" >}}](https://www.aaihs.org/mass-incarceration-and-its-mystification-a-review-of-the-13th/)." October 22, 2016. Black Perspectives.
 
 Pfaff, John F. "Introduction: American Exceptionalism." In _Locked In: The True Causes of Mass Incarceration and How to Achieve Real Reform_. Basic Books, 2017. ISBN: 9780465096916. \[Preview with [Google Books](https://www.google.com/books/edition/Locked_In/BirXCwAAQBAJ?hl=en&gbpv=1)\]
 
@@ -398,7 +402,7 @@ Sered, Danielle. "Introduction." In _Until We Reckon: Violence, Mass Incarcerati
 
 Slater, Dashka. "[North Dakota's Norway Experiment](https://www.motherjones.com/crime-justice/2017/07/north-dakota-norway-prisons-experiment/)." _Mother Jones Daily_, July/August 2017.
 
-Doleac, Jennifer L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Encouraging Desistance from Crime." (PDF)](http://jenniferdoleac.com/wp-content/uploads/2019/02/Doleac_Desistance_Feb2019.pdf) (Working Paper). February 16, 2019.
+Doleac, Jennifer L. ["Encouraging Desistance from Crime." (PDF)](http://jenniferdoleac.com/wp-content/uploads/2019/02/Doleac_Desistance_Feb2019.pdf) (Working Paper). February 16, 2019.
 
 
 {{< tdclose >}}
