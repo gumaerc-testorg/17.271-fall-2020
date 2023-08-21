@@ -39,8 +39,10 @@
   },
   "learning_resource_types": [
     "Presentation Assignments",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "5ee40feb-2471-4897-a5e7-51ed37ff2b5c",
+  "site_uid": "de03695c-16ee-428b-a9d3-d2beee200a9b",
+  "short_id": "17.271-fall-2020",
   "title": "Course Metadata"
 }
