@@ -38,7 +38,7 @@ Prior study providing basic understanding of American political institutions (as
 ### Requirements Satisfied
 
 - HASS-S
-- 17.271 can be applied toward a [Bachelor of Science in Political Science](https://polisci.mit.edu/undergraduate/major), but is not required.
+- 17.271 can be applied toward a {{% resource_link "73976d5d-fdf4-4df9-b6f0-bd9315be4304" "Bachelor of Science in Political Science" %}}, but is not required.
 
 ### Offered
 
