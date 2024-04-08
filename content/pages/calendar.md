@@ -286,7 +286,7 @@ Changing actors (especially prosecutors)
 
 Changing the prison system (or diverting)
 
-_Guest speaker: Lee Perlman, director of the [ESG Prison Initiative](https://esg.mit.edu/learninginnovation/prison-initiative/) at MIT_
+_Guest speaker: Lee Perlman, director of the {{% resource_link "af426b8e-5915-4ca1-a550-f0863b1a98dd" "ESG Prison Initiative" %}} at MIT_
 
 
 {{< tdclose >}}
