@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-271-mass-incarceration-in-the-united-states-fall-2020/f847c85a48fce28cb1d7a986dc7feec3_protestors.jpg
+file_size: 128090
 file_type: image/jpeg
 image_metadata:
   caption: ''
