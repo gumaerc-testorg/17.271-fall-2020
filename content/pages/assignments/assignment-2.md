@@ -11,7 +11,7 @@ title: Assignment 2
 uid: 6403123a-a1fb-0d24-e35e-b85486aeb4d6
 ---
 
-The goal of this assignment is to have you dig into some of the available data about the criminal legal system(s) across the US. You will download an available dataset (from a city, county, or state government “open-data” website, from an organization like {{% resource_link "8e449320-3041-4ad3-b8ad-413fc31ea2e7" "Measures for Justice" %}}, from a federal government website like the {{% resource_link "7d3d0fe5-c27a-470b-9ee0-041ef8d16013" "Bureau of Justice Statistics (BJS)" %}}, or from an academic site like {{% resource_link "12d85702-55d5-4540-b9eb-184eb36f3bd1" "ICPSR: Institute for Social Research" %}}). You will then use that dataset to make one descriptive plot and explain what it shows us. 
+The goal of this assignment is to have you dig into some of the available data about the criminal legal system(s) across the US. You will download an available dataset (from a city, county, or state government “open-data” website, from an organization like [Measures for Justice](https://measuresforjustice.org/), from a federal government website like the [Bureau of Justice Statistics (BJS)](https://www.bjs.gov/), or from an academic site like [ICPSR: Institute for Social Research](https://www.icpsr.umich.edu/web/pages/)). You will then use that dataset to make one descriptive plot and explain what it shows us. 
 
 This assignment is due during week 8.
 
