@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-271-mass-incarceration-in-the-united-states-fall-2020/7384518ae15be1251c60a92fd9041084_MIT17_271F20_StudentExample1.pdf
+file: /ol-ocw-studio-app/courses/17-271-mass-incarceration-in-the-united-states-fall-2020/7384518ae15be1251c60a92fd9041084_MIT17_271F20_StudentExample1.pdf
 file_size: 156603
 file_type: application/pdf
 learning_resource_types:
