@@ -85,7 +85,7 @@ Changing actors (especially prosecutors)
 
 Changing the prison system (or diverting)
 
-*Guest speaker: Lee Perlman, co-director of the* {{% resource_link "0c92cdf7-601c-4496-94b7-3f7cb50e80f1" "*Educational Justice Institute*" %}} *at MIT*
+*Guest speaker: Lee Perlman, co-director of the* [*Educational Justice Institute*](https://www.teji.mit.edu/) *at MIT*
 
 {{< tdclose >}}{{< tdopen >}}
 ﻿Assignment 3 due
